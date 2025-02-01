@@ -50,7 +50,7 @@ I have worked on **ETL automation, database design, and business process improve
 ---
 
 ## 📫 Connect With Me!
-🔗 **LinkedIn:** [https://linkedin.com/in/idegavin](#)  
+🔗 **LinkedIn:** (https://linkedin.com/in/idegavin)(#)  
 📩 **Email:** [idegavin@gmail.com](mailto:idegavin@gmail.com)  
 ---
 
