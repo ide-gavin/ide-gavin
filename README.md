@@ -51,9 +51,7 @@ I have worked on **ETL automation, database design, and business process improve
 
 ## 📫 Connect With Me!
 🔗 **LinkedIn:** [linkedin.com/in/gavinide](#)  
-📩 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-💼 **Portfolio:** [your-portfolio-link.com](#)  
-
+📩 **Email:** [idegavin@gmail.com](mailto:your.email@example.com)  
 ---
 
 🚀 *Always open to new opportunities in data analysis, business intelligence, and process optimization!*  
