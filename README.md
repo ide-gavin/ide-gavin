@@ -50,11 +50,11 @@ I have worked on **ETL automation, database design, and business process improve
 ---
 
 ## 📫 Connect With Me!
-🔗 **LinkedIn:** [linkedin.com/in/idegavin](#)  
+🔗 **LinkedIn:** [https://linkedin.com/in/idegavin](#)  
 📩 **Email:** [idegavin@gmail.com](mailto:idegavin@gmail.com)  
 ---
 
-🚀 *Always open to new opportunities in data analysis, business intelligence, and process optimization!*  
+🚀 *Always open to new opportunities in data or business analysis!*  
 
 <!--
 **ide-gavin/ide-gavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
