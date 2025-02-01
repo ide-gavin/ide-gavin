@@ -51,7 +51,7 @@ I have worked on **ETL automation, database design, and business process improve
 
 ## 📫 Connect With Me!
 🔗 **LinkedIn**: (https://linkedin.com/in/idegavin)
-📩 **Email:** (idegavin@gmail.com)(mailto:idegavin@gmail.com)
+📩 **Email:** [idegavin@gmail.com](mailto:idegavin@gmail.com)
 ---
 
 🚀 *Always open to new opportunities in data or business analysis!*  
