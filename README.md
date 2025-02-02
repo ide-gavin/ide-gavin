@@ -14,7 +14,7 @@ I'm interested in business and data analytics with a strong foundation in **SQL,
 I have worked on **ETL automation, database design, and business process improvements in real-world projects** across industries, including **Emerson Automation Solutions and Address Income**.
 
 ---
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills  
 💾 **Databases & Data Warehousing:** SQL Server, PostgreSQL, AWS RDS  
 📊 **Data Processing & Workflow Automation:** Apache Airflow, ETL Pipelines  
 📈 **Data Analysis & Visualization:** SQL, Python (Pandas, NumPy, Matplotlib)  
