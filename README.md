@@ -6,8 +6,12 @@
 
 ---
 
-## 📊 About Me
-I'm interested in business and data analytics. I have a strong foundation in SQL, Python, and project management methodologies. My experience spans data integration, business process optimization, and cloud-based data solutions. I have worked on real-world projects involving ETL automation, database design, and business process improvements across industries, including Emerson Automation Solutions and Address Income.
+###📊 About Me
+Hello, I'm Gavin! I'm a senior at the University of Nevada-Reno, completing my degree in Information Systems. I am passionate about analytic-driven decisions and have a strong foundation in SQL, Python, and project management methodologies. I'm elated to bring my technical skills and desire to learn to the field of data analysis.
+
+My experience working on real-world projects involving ETL automation, database design, and business process improvements with companies such as Emerson Automation Solutions and Address Income, will be beneficial in my role as an analyst.
+
+I'm currently learning more about Tableau. Some quick fun facts about me, I enjoy photography, going to the gym, and R&B!
 
 ---  
 
