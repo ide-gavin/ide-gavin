@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Gavin Ide!
+# Gavin Ide  
 
 🎓 **Senior at the University of Nevada, Reno**  
 📌 **Pursuing a B.S. in Information Systems** | **Graduating May 2025**  
@@ -14,13 +12,21 @@ I'm interested in business and data analytics. I have a strong foundation in SQL
 I have worked on real-world projects involving ETL automation, database design, and business process improvements across industries, including Emerson Automation Solutions and Address Income.
 
 ---
+### Languages and Tools  
 
-## 🛠️ Technical Skills  
-💾 **Databases & Data Warehousing:** SQL Server, PostgreSQL, AWS RDS  
-📊 **Data Processing & Workflow Automation:** Apache Airflow, ETL Pipelines  
-📈 **Data Analysis & Visualization:** SQL, Python (Pandas, NumPy, Matplotlib)  
-📌 **Project Management & BPM:** PMBOK, BPMN, Agile, SCRUM  
-🛠️ **Tools & Platforms:** Git, JIRA, Visio  
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+          
+#
 
 ---  
 
