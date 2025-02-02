@@ -6,7 +6,7 @@
 
 ---
 
-###📊 About Me
+###📊 About Me  
 Hello, I'm Gavin! I'm a senior at the University of Nevada-Reno, completing my degree in Information Systems. I am passionate about analytic-driven decisions and have a strong foundation in SQL, Python, and project management methodologies. I'm elated to bring my technical skills and desire to learn to the field of data analysis.
 
 My experience working on real-world projects involving ETL automation, database design, and business process improvements with companies such as Emerson Automation Solutions and Address Income, will be beneficial in my role as an analyst. I'm currently learning more about Tableau and other data visualization techniques.
