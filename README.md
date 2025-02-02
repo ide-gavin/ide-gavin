@@ -9,9 +9,9 @@
 ---
 
 ## 📊 About Me
-I'm interested in business and data analytics with a strong foundation in **SQL, Python, and project management methodologies**. My experience spans **data integration, business process optimization, and cloud-based data solutions**.  
+I'm interested in business and data analytics. I have a strong foundation in SQL, Python, and project management methodologies. My experience spans data integration, business process optimization, and cloud-based data solutions.  
 
-I have worked on **ETL automation, database design, and business process improvements in real-world projects** across industries, including **Emerson Automation Solutions and Address Income**.
+I have worked on real-world projects involving ETL automation, database design, and business process improvements across industries, including Emerson Automation Solutions and Address Income.
 
 ---
 
